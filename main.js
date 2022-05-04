@@ -1,5 +1,5 @@
 require('es6-promise').polyfill();
-var rest = require('needle');
+var rest = require('restler');
 var objectAssign = require('object-assign');
 
 var minRequestDelay = 500;

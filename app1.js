@@ -1,6 +1,6 @@
 require('dotenv').config()
 
-const  Trello = require('./node_modules/trello/main');
+const  Trello = require('./main');
 
 var trello = new Trello(process.env.KEY, process.env.TOKEN);
 var cardTitle = `Card Nueva desde Node.js`;
