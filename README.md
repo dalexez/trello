@@ -1,3 +1,5 @@
+# Hay que modificar una dependencia para poder correrlo de manera local, en alguna actualizacion supongo que quien creo este proyecto no modifico las dependencias que uso
+
 [![Build Status](https://travis-ci.org/norberteder/trello.svg?branch=master)](https://travis-ci.org/norberteder/trello)
 
 # trello
